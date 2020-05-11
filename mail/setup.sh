@@ -4,3 +4,4 @@ curl -o hostname https://raw.githubusercontent.com/BelgianNicky/mailKperf/master
 curl -o hosts https://raw.githubusercontent.com/BelgianNicky/mailKperf/master/mail/hosts
 curl -o mailname https://raw.githubusercontent.com/BelgianNicky/mailKperf/master/mail/mailname
 curl -o main.cf https://raw.githubusercontent.com/BelgianNicky/mailKperf/master/mail/main.cf
+curl -o init.sh https://raw.githubusercontent.com/BelgianNicky/mailKperf/master/mail/init.sh
